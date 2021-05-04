@@ -1,0 +1,5 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/nubian-message-2002-04-18_0008"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "graphic of question mark", "purpose": "commenting", "creator": {"id": "dbrower", "name": "Don Brower"}, "created": "2021-05-04T23:49:40.044Z", "modified": "2021-05-04T23:49:46.184Z"}], "target": {"source": "https://d.lib.ncsu.edu/collections/canvas/nubian-message-2002-04-18_0008", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:1859.7520751953125,1045.70556640625,953.9769287109375,1696.978271484375"}, "dcterms:isPartOf": {"id": "https://d.lib.ncsu.edu/collections/catalog/nubian-message-2002-04-18/manifest.json", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/94dd8e4c-428b-4c07-84b2-2d20754726fd.json"}
