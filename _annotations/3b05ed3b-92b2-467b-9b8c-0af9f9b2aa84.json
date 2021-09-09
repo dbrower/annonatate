@@ -22,7 +22,7 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:5173.95263671875,1521.9970703125,1930.2705078125,1662.177734375"
+            "value": "xywh=pixel:2712.857177734375,1055.514892578125,4541.498291015625,2600.50390625"
         },
         "dcterms:isPartOf": {
             "id": "https://d.lib.ncsu.edu/collections/catalog/mc00084-001-te0159-000-001_0001/manifest.json",
