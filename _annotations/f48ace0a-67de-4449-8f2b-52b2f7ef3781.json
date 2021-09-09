@@ -1,0 +1,30 @@
+---
+canvas: "https://iiif-cds.library.nd.edu/image/add_6782_f001.jpg/full/full/0/default.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Grid of numbers",
+            "purpose": "describing",
+            "creator": {
+                "id": "dbrower",
+                "name": "Don Brower"
+            },
+            "created": "2021-09-09T21:03:43.739Z",
+            "modified": "2021-09-09T21:03:52.498Z"
+        }
+    ],
+    "target": {
+        "source": "https://iiif-cds.library.nd.edu/image/add_6782_f001.jpg/full/full/0/default.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:706.0892333984375,346.58892822265625,1815.2965087890625,3868.0590209960938"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/f48ace0a-67de-4449-8f2b-52b2f7ef3781.json"
+}
